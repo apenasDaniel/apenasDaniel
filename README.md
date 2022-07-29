@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/danieloliveiradev1](linkedin.com/in/danieloliveiradev1)
 
-- ⚡ Fun fact **i’ve watched the office more than 6 times**
+- ⚡ Fun fact **i’ve watched The Office more than 6 times**
 
 
 </p> <h3 align="left">Languages and Tools:</h3>
