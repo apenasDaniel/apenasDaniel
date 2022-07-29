@@ -1,6 +1,5 @@
-  <p align="center">
-    <img src="https://github.com/apenasdaniel/apenasdaniel/raw/main/assets/header-github.gif" alt="hi, im daniel">
-  </p>
+![header-github2](https://user-images.githubusercontent.com/104675536/181853621-8554cac6-45e5-47cf-b4a9-524e8f8265b0.gif)
+
 
 - 🌱 I’m currently learning **JAVA**
 
