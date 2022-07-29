@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, i'm Daniel</h1>
-<h3 align="center">A true knowledge lover</h3>
+  <p align="center">
+    <img src="https://github.com/apenasdaniel/apenasdaniel/raw/main/assets/header-github.gif" alt="hi, im daniel">
+  </p>
 
 - 🌱 I’m currently learning **JAVA**
 
