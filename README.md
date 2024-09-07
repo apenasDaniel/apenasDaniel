@@ -1,13 +1,10 @@
 ![header-github2](https://user-images.githubusercontent.com/104675536/181853621-8554cac6-45e5-47cf-b4a9-524e8f8265b0.gif)
 
 
-- 🌱 I’m currently learning **JAVA**
-
 - 📫 How to reach me **danieloliveiradev1@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/danieloliveiradev1](linkedin.com/in/danieloliveiradev1)
 
-- ⚡ Fun fact **i’ve watched The Office more than 6 times**
 
 
 </p> <h3 align="left">Languages and Tools:</h3>
